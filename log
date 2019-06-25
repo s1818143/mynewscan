@@ -7,3 +7,36 @@ exploration.php
 modifyArticle.php
 question_form.php
 statistics.php
+
+6.14 (单独会议)
+Add source（link or CNN...） to the database  （还需要一个个甄别）
+Display it (if available) below the article name, also in create/update article pages（完成）
+
+Delete length from database （完成）
+
+Name -> MyNewsScan (完成)
+
+filter length based on minutes（0-40）
+
+Topics+
+- Technology & Science
+- Scoiety & Culture
+- Environment
+- Business & Finance
+
+
+6.19
+session的问题仍然没有解决
+选文章的system
+Link local storage
+IP address / cookie-based
+
+
+6.21 (Gedi的邮件提醒)
+-	Topics: adding "Society & Culture", "Environment" and "Business & Finance" 
+  (we have a considerable list of articles to be added for these)
+-	Category: adding "Chronicle" (instead of history or historical)
+-	Adding source field to the database & article adding/editing links (as a text string, e.g. "Guardian")
+-	Removing article length field from the database & article adding/editing links (short/medium/long)
+-	Adding a question "How clearly written do you think this article is?" with answers "Not at all", 
+  "Not very clear", "Fairly clear" and "Very clear" to the questionnaire.
