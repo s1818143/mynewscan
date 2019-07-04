@@ -40,3 +40,7 @@ IP address / cookie-based
 -	Removing article length field from the database & article adding/editing links (short/medium/long)
 -	Adding a question "How clearly written do you think this article is?" with answers "Not at all", 
   "Not very clear", "Fairly clear" and "Very clear" to the questionnaire.
+  
+  
+7.3
+score表格滚动模式
