@@ -41,7 +41,17 @@ IP address / cookie-based
 -	Adding a question "How clearly written do you think this article is?" with answers "Not at all", 
   "Not very clear", "Fairly clear" and "Very clear" to the questionnaire.
   
-  
+
+
+6.26
+1.	找到去年的bug – 变量命名不一致，导致在update/modify 文章的时候两个单词的类型是无法更改的和提前显示它的正确topics
+2.	做一下painting的实验
+3.	training eyetracking（最好早一点） 周二 11点 entrance of informatics
+4.	article annotation（Friday meeting）
+5.	litre review – 下周找一些感兴趣的journals （）
+
+
+
 7.3
 score表格滚动模式
 
