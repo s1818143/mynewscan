@@ -84,4 +84,8 @@ two version: 1. 添加another version entry
 points bug：1.分析articlepage、add_answer、add_points
             2.在add_points中发现insert、update points时使用数据表的名称与数据库的不相同，保持一致后就修复了
 
+7/17
+修复article page的样式问题
+login和register页面的样式调整
+添加about us的三个锚点页面
 
