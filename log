@@ -74,5 +74,14 @@ add the articale link（完成）
 7/15
 regesign UI 
 加图标
+
+
 7/16
 修复points功能
+two version: 1. 添加another version entry
+             2. 另一个版本打开articlepage只显示link，不显示iframe
+
+points bug：1.分析articlepage、add_answer、add_points
+            2.在add_points中发现insert、update points时使用数据表的名称与数据库的不相同，保持一致后就修复了
+
+
