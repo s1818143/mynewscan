@@ -94,3 +94,9 @@ updata points calculation
 delete fake account
 resize points table
 
+7/23
+articalpage.php
+add_points.php
+
+解决同一个文章，同一用户，不同答案需要加分问题。通过建立新表格points，比较同意文章，用户，此次所得分数是否比上次高，如果高，更新，如果不高，不更新
+
